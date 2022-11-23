@@ -1,0 +1,4 @@
+CRIAR O NO LOCALHOST A BASE DE DADOS (dados)
+SUBIR O BACKUP NELA 
+
+usuari e senha admin

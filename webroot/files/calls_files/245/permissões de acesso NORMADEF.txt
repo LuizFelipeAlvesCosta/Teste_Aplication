@@ -1,0 +1,62 @@
+Permissões de Acesso a Pasta "S:\02 - SGI\02 - Módulo Qualidade\04 - Normadef":
+
+* Arquivo Inativo
+
+Usuários do Domínio: Não acessar nada.
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
+
+
+* Cópia Controladas Vigentes
+
+Usuários do Domínio: Leitura
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total~
+
+	EXCEÇÃO: AS PASTAS A SEGUIR DEVEM TER PERMISSÃO DE "LER E EXCECUTAR"
+	- 05 - FG - Formulário Geral;
+	- 07 - FDILAB - Formulário Dilab;
+	- 08 - FDIOPE - Formulários Diope;
+	- 09 - FS - Formulários de Segurança;
+	- 10 - FDIVAD - Formulário Administrativo;
+	- 21 - FTI
+
+
+* Diversos não Controlados
+
+Usuários do Domínio: Controle total
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
+
+
+* Documentos Oficiais da Qualitex
+
+Usuários do Domínio: Ler e Executar (permissão para anexar arquivos em e-mail)
+pedro_h, veronica_s, SGI (QUALITEX\SGI), jorge_l: Controle total
+
+
+* Elaborações
+
+Usuários do Domínio: Controle total
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
+
+
+* Figuras dos Equipamentos
+
+Usuários do Domínio: Leitura
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
+
+
+* Normas Externas
+
+Usuários do Domínio: Leitura
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
+
+
+* Política da Qualidade
+
+Usuários do Domínio: Leitura
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
+
+
+* Revisões
+
+Usuários do Domínio: Controle total
+pedro_h, veronica_s, SGI (QUALITEX\SGI): Controle total
